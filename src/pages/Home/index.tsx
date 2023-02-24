@@ -23,10 +23,13 @@ export function Home() {
           />
 
           <datalist id="task-suggestions">
-            <option value="Projeto1"></option>
-            <option value="Projeto2"></option>
-            <option value="Projeto3"></option>
-            <option value="Banana"></option>
+            <option value="Estudar Lógica de Programação"></option>
+            <option value="Estudar Frontend"></option>
+            <option value="Estudar Backend"></option>
+            <option value="Estudar inglês"></option>
+            <option value="Estudar node"></option>
+            <option value="Estudar react"></option>
+            <option value="Estudar react-native"></option>
           </datalist>
 
           <label htmlFor="minutesAmount">durante</label>
